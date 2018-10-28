@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  animation: App-logo-spin infinite 20s linear;
+  animation: App-logo-spin infinite 200s linear;
   height: 40vmin;
 }
 
@@ -15,11 +15,14 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgba(255, 255, 255, 0.788);
+  font-size: 50px;
 }
 
 .App-link {
-  color: #61dafb;
+  color: #6e4c52cc;
+  font-size: 20px;
+  text-decoration: none;
 }
 
 @keyframes App-logo-spin {
